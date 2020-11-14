@@ -1,0 +1,48 @@
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: posts","time":"2020-11-14T15:13:55.254Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: posts_meta","time":"2020-11-14T15:13:55.589Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: users","time":"2020-11-14T15:13:55.870Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: posts_authors","time":"2020-11-14T15:13:56.320Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: roles","time":"2020-11-14T15:13:56.478Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: roles_users","time":"2020-11-14T15:13:56.792Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: permissions","time":"2020-11-14T15:13:56.993Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: permissions_users","time":"2020-11-14T15:13:57.310Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: permissions_roles","time":"2020-11-14T15:13:57.466Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: permissions_apps","time":"2020-11-14T15:13:57.623Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: settings","time":"2020-11-14T15:13:57.837Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: tags","time":"2020-11-14T15:13:58.173Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: posts_tags","time":"2020-11-14T15:13:58.522Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: apps","time":"2020-11-14T15:13:58.690Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: app_settings","time":"2020-11-14T15:13:59.286Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: app_fields","time":"2020-11-14T15:13:59.635Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: invites","time":"2020-11-14T15:13:59.813Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: brute","time":"2020-11-14T15:14:00.286Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: webhooks","time":"2020-11-14T15:14:00.487Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: sessions","time":"2020-11-14T15:14:00.646Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: integrations","time":"2020-11-14T15:14:01.016Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: api_keys","time":"2020-11-14T15:14:01.308Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2020-11-14T15:14:01.644Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: members","time":"2020-11-14T15:14:01.971Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: labels","time":"2020-11-14T15:14:02.444Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: members_labels","time":"2020-11-14T15:14:03.140Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: members_stripe_customers","time":"2020-11-14T15:14:03.309Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2020-11-14T15:14:03.733Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: actions","time":"2020-11-14T15:14:04.105Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: emails","time":"2020-11-14T15:14:04.262Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: email_batches","time":"2020-11-14T15:14:04.778Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: email_recipients","time":"2020-11-14T15:14:04.935Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: tokens","time":"2020-11-14T15:14:05.249Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Creating table: snippets","time":"2020-11-14T15:14:05.721Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: Tag","time":"2020-11-14T15:14:06.246Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: Role","time":"2020-11-14T15:14:06.297Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: Permission","time":"2020-11-14T15:14:06.364Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: User","time":"2020-11-14T15:14:07.060Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: Post","time":"2020-11-14T15:14:08.746Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Model: Integration","time":"2020-11-14T15:14:09.366Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Relation: Role to Permission","time":"2020-11-14T15:14:09.461Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Relation: Post to Tag","time":"2020-11-14T15:14:10.219Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Relation: User to Role","time":"2020-11-14T15:14:10.315Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Ghost is running in development...","time":"2020-11-14T15:14:43.385Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Listening on: 127.0.0.1:2369","time":"2020-11-14T15:14:43.388Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Url configured as: http://localhost:2369/","time":"2020-11-14T15:14:43.390Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Ctrl+C to shut down","time":"2020-11-14T15:14:43.392Z","v":0}
+{"name":"Log","hostname":"debian","pid":15215,"level":30,"msg":"Ghost boot 53.123s","time":"2020-11-14T15:14:43.398Z","v":0}
